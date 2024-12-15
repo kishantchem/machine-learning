@@ -1,1 +1,1 @@
-# machine-learning
+# how to do machine-learning
