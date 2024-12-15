@@ -10,3 +10,9 @@ area = [3.14159, 12.56636, 28.27431, 50.26544]
 
 plt.plot(radius, area)
 plt.show()
+
+##dataset = pd.read_csv('Data.csv')
+##dataset.iloc[1:4]
+
+
+
